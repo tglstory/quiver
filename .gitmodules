@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/cockroachdb/c-snappy"]
+	path = vendor/github.com/cockroachdb/c-snappy
+	url = https://github.com/cockroachdb/c-snappy
